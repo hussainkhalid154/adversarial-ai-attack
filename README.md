@@ -16,6 +16,12 @@ This shows that AI models, even highly accurate ones, can be easily broken with 
 2.  **Attack:** Projected Gradient Descent (PGD) from the `torchattacks` library.
 3.  **Image:** A standard image of a giant panda.
 4.  **Goal:** To create an "adversarial example" that looks identical to the original but causes a misclassification.
+   
+## 📂 Project Structure
+adversarial-ai-attack/
+├── adversarial_attack.ipynb # Main Jupyter notebook
+├── requirements.txt # Python dependencies
+└── README.md # This file
 
 ## 🛠️ How to Run This Code
 1.  Clone this repository:
