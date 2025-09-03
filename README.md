@@ -45,7 +45,7 @@ Adversarial attacks expose a fundamental brittleness in AI models. This has seri
 ## 👨‍💻 About the Author
 I am an AI Risk Strategist focused on finding and fixing hidden vulnerabilities in AI systems.
 
-**Connect with me on:** []
+**Connect with me on:** [www.linkedin.com/in/hussainkhalid1544]
 
 ---
 *This project is for demonstration and educational purposes only.*
