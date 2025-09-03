@@ -17,8 +17,6 @@ This shows that AI models, even highly accurate ones, can be easily broken with 
 3.  **Image:** A standard image of a giant panda.
 4.  **Goal:** To create an "adversarial example" that looks identical to the original but causes a misclassification.
 
-## 📂 Project Structure
-
 ## 🛠️ How to Run This Code
 1.  Clone this repository:
     ```bash
